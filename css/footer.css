@@ -1,0 +1,12 @@
+.footer {
+	border:1px solid black;
+	background-color:#C0C0C0;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:space-evenly;
+}
+
+.footer a, .footer a:hover {
+	color:black;
+}

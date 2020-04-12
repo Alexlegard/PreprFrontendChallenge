@@ -1,0 +1,22 @@
+.header {
+	border:1px solid black;
+	height:50px;
+}
+
+.header__logo {
+	margin:5px;
+}
+
+.header__menu {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:space-evenly;
+}
+
+.header__menu .header__search button {
+	float: right;
+	background-color: #ddd;
+	height:30px;
+	width:30px;
+}

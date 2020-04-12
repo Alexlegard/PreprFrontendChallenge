@@ -1,0 +1,44 @@
+.challenges {
+	margin:10px;
+	min-height:88vh;
+	padding:5px;
+	background-color:white;
+	box-shadow: 2px 2px 3px #888888, -2px -2px 3px #888888;
+}
+
+.challenges__topnav {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:flex-end;
+}
+
+.challenges__topnav_header {
+	margin-right:auto;
+}
+
+.challenges__topnav i, .project-type {
+	margin:5px;
+}
+
+.challenges__item1, .challenges__item2, .challenges__item3,
+.challenges__item4, .challenges__item5, .challenges__item6,
+.challenges__item7, .challenges__item8, .challenges__item9 {
+	margin:5px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}
+
+.challenges__widgets {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}
+.challenges__widgets div {
+	margin-left:5px;
+	margin-right:5px;
+	
+}

@@ -1,0 +1,45 @@
+.container-fluid {
+	background-color:#DCDCDC;
+}
+
+#container-fluid {
+	padding-left:0;
+	padding-right:0;
+}
+
+/*** For explore page ***********************/
+.explore {
+	margin:10px;
+	min-height:88vh;
+	padding:5px;
+	background-color:white;
+	box-shadow: 2px 2px 3px #888888, -2px -2px 3px #888888;
+}
+
+.explore__topnav {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:flex-end;
+}
+
+.explore__topnav_header {
+	margin-right:auto;
+}
+
+.explore__topnav i, .project-type {
+	margin:5px;
+}
+
+.explore__item1, .explore__item2, .explore__item3,
+.explore__item4, .explore__item5, .explore__item6,
+.explore__item7, .explore__item8, .explore__item9 {
+	margin:5px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}
+
+
+

@@ -1,0 +1,32 @@
+.projects {
+	margin:10px;
+	min-height:88vh;
+	padding:5px;
+	background-color:white;
+	box-shadow: 2px 2px 3px #888888, -2px -2px 3px #888888;
+}
+
+.projects__topnav {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:flex-end;
+}
+
+.projects__topnav_header {
+	margin-right:auto;
+}
+
+.projects__topnav i, .project-type {
+	margin:5px;
+}
+
+.projects__item1, .projects__item2, .projects__item3,
+.projects__item4, .projects__item5, .projects__item6,
+.projects__item7, .projects__item8, .projects__item9 {
+	margin:5px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}
