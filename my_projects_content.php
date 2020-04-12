@@ -17,7 +17,7 @@
 				</div>
 				<div class="projects__item1_info">
 					<h5>Penguins Challenge</h5>
-					<div>We seek to extend the life expectancy of Antarctica penguins.</div>
+					<div>I try to extend the life expectancy of Antarctica penguins.</div>
 				</div>
 			</div>
 			
@@ -27,7 +27,7 @@
 				</div>
 				<div class="projects__item2_info">
 					<h5>Dogs Challenge</h5>
-					<div>We want to end poverty among low-income dogs.</div>
+					<div>I try to end poverty among low-income dogs.</div>
 				</div>
 			</div>
 			
@@ -37,7 +37,7 @@
 				</div>
 				<div class="projects__item3_info">
 					<h5>Cats Challenge</h5>
-					<div>We want to provide all cats a safe place to live.</div>
+					<div>I try to provide all cats a safe place to live.</div>
 				</div>
 			</div>
 			
@@ -47,7 +47,7 @@
 				</div>
 				<div class="projects__item4_info">
 					<h5>Penguins Challenge</h5>
-					<div>We seek to extend the life expectancy of Antarctica penguins.</div>
+					<div>I try to extend the life expectancy of Antarctica penguins.</div>
 				</div>
 			</div>
 			
@@ -57,7 +57,7 @@
 				</div>
 				<div class="projects__item5_info">
 					<h5>Dogs Challenge</h5>
-					<div>We want to end poverty among low-income dogs.</div>
+					<div>I try to end poverty among low-income dogs.</div>
 				</div>
 			</div>
 			
@@ -67,7 +67,7 @@
 				</div>
 				<div class="projects__item6_info">
 					<h5>Cats Challenge</h5>
-					<div>We want to provide all cats a safe place to live.</div>
+					<div>I try to provide all cats a safe place to live.</div>
 				</div>
 			</div>
 			
@@ -77,7 +77,7 @@
 				</div>
 				<div class="projects__item7_info">
 					<h5>Penguins Challenge</h5>
-					<div>We seek to extend the life expectancy of Antarctica penguins.</div>
+					<div>I try to extend the life expectancy of Antarctica penguins.</div>
 				</div>
 			</div>
 			
@@ -87,7 +87,7 @@
 				</div>
 				<div class="projects__item8_info">
 					<h5>Dogs Challenge</h5>
-					<div>We want to end poverty among low-income dogs.</div>
+					<div>I try to end poverty among low-income dogs.</div>
 				</div>
 			</div>
 			
@@ -97,7 +97,7 @@
 				</div>
 				<div class="projects__item9_info">
 					<h5>Cats Challenge</h5>
-					<div>We want to provide all cats a safe place to live.</div>
+					<div>I try to provide all cats a safe place to live.</div>
 				</div>
 			</div>
 		</div>

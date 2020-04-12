@@ -2,7 +2,7 @@
 	<div class="col-12">
 		<div class="explore" id="explore">
 			<div class="explore__topnav" id="explore__topnav">
-				<h4 class="explore__topnav_header">Community Projects</h4>
+				<h4 class="explore__topnav_header">Community Challenges</h4>
 				<i class="fas fa-bars"></i>
 				<i class="far fa-square"></i>
 				<select class="project-type" id="project-type">

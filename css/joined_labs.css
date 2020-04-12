@@ -1,0 +1,24 @@
+.joinedlabs {
+	margin:8px;
+	padding:8px;
+	background-color:white;
+}
+
+.joinedlabs__topnav {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	justify-content:flex-end;
+}
+.joinedlabs__header {
+	margin-right:auto;
+}
+
+.joinedlabs__item1, .joinedlabs__item2, .joinedlabs__item3,
+.joinedlabs__item4, .joinedlabs__item5, .joinedlabs__item6,
+.joinedlabs__item7, .joinedlabs__item8, .joinedlabs__item9 {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}

@@ -1,0 +1,32 @@
+.titlecard {
+	margin:8px;
+	padding:8px;
+	background-color:white;
+}
+
+.titlecard__img {
+	width:100%;
+}
+
+.titlecard__widgets {
+	display:flex;
+	flex-direction:row;
+	flex-wrap:nowrap;
+	flex-direction:flex-start;
+}
+
+.titlecard__widgets div {
+	margin-left:5px;
+	margin-right:5px;
+}
+
+.titlecard__submit, .titlecard__button {
+	text-decoration: none;
+	background-color: #EEEEEE;
+	color: #333333;
+	padding: 2px 6px 2px 6px;
+	border-top: 1px solid #CCCCCC;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #CCCCCC;
+}
