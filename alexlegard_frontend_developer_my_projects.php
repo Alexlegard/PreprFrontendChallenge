@@ -25,9 +25,9 @@
 			
 			
 			<?php
-			include "header.php";
-			include "my_projects_content.php";
-			include "footer.php";
+			include "alexlegard_frontend_developer_header.php";
+			include "alexlegard_frontend_developer_my_projects_content.php";
+			include "alexlegard_frontend_developer_footer.php";
 			?>
 			
 		</div>

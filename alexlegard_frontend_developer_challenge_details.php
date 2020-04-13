@@ -26,10 +26,10 @@
 			
 			
 			<?php
-			include "header.php";
-			include "challenge_details_title_card.php";
-			include "challenge_details_details_card.php";
-			include "footer.php";
+			include "alexlegard_frontend_developer_header.php";
+			include "alexlegard_frontend_developer_challenge_details_title_card.php";
+			include "alexlegard_frontend_developer_challenge_details_details_card.php";
+			include "alexlegard_frontend_developer_footer.php";
 			?>
 			
 		</div>

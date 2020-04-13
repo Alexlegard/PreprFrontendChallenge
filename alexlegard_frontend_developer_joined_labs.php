@@ -2,7 +2,7 @@
 
 <html lang="en">
 	<head>
-		<title>Explore</title>
+		<title>Joined Labs</title>
 		<meta charset="utf-8">
 		<!-- Font Awesome kit -->
 		<script src="https://kit.fontawesome.com/e084714859.js" crossorigin="anonymous"></script>
@@ -10,6 +10,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/header.css">
 		<link rel="stylesheet" type="text/css" href="css/footer.css">
+		<link rel="stylesheet" type="text/css" href="css/joined_labs.css">
 		<!-- Jquery -->
 		<script src="js/jquery.js"></script>
 		<!-- Bootstrap -->
@@ -24,9 +25,9 @@
 			
 			
 			<?php
-			include "header.php";
-			include "index_content.php";
-			include "footer.php";
+			include "alexlegard_frontend_developer_header.php";
+			include "alexlegard_frontend_developer_joined_labs_content.php";
+			include "alexlegard_frontend_developer_footer.php";
 			?>
 			
 		</div>

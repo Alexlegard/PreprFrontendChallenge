@@ -4,6 +4,10 @@
 	padding:5px;
 	background-color:white;
 	box-shadow: 2px 2px 3px #888888, -2px -2px 3px #888888;
+	margin-top:60px;
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
 }
 
 .challenges__topnav {

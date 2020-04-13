@@ -1,7 +1,10 @@
 .titlecard {
-	margin:8px;
 	padding:8px;
 	background-color:white;
+	margin-top:50px;
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
 }
 
 .titlecard__img {

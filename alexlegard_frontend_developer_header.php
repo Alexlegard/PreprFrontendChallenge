@@ -1,3 +1,4 @@
+<div class="header">
 <div class="row">
 	<div class="col-6">
 		<div class="header__logo" id="header__logo">
@@ -22,4 +23,5 @@
 			</div>
 		</div>
 	</div>
+</div>
 </div>
